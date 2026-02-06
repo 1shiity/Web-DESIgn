@@ -1,0 +1,68 @@
+Css
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    background: linear-gradient(135deg,#eef2f7,#d9e2ec);
+    padding: 20px;
+    color: #243b53;
+}
+nav{
+    background: #bcccdc;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    box-shadow: 0 5px rgba(0, 0, 0, 08)
+
+}
+
+nav a{
+    color: #243b53;
+    margin: 12px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+h1{
+    letter-spacing: 1px;
+}
+
+header{
+    background: #f0f4f8;
+    padding: 40px;
+    text-align: center;
+border-radius: 20px;
+box-shadow: 0 10px 25px rgba(0, 0, 0, 08);
+}
+
+section{
+    background: #ffffff;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 05);
+
+}
+
+input, textarea{
+    width: 85%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 10px;
+    border: 1px solid #d9e2ec;
+    background: #f8fbff;
+}
+
+button{
+    background: #486581;
+    border: none;
+    padding: 12px 28px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover{
+background: #334e68;
+}
